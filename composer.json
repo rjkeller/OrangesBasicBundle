@@ -1,3 +1,6 @@
 {
-    "name": "rjkeller/OrangesBasicBundle"
+    "name": "rjkeller/OrangesBasicBundle",
+    "autoload": {
+        "psr-0": { "": "/" }
+    }
 }
